@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPA_pierrelouim5_Calculator</string>
+    <string name="title">GPA Calculator</string>
+    <string name="courseNumber">Course:</string>
+    <string name="addCourse">Add a Course</string>
+    <string name="EnterFinalGrade">Enter your Grade</string>
+    <string name="calculateGPA">Compute GPA</string>
+    <string name="clearForm">Clear Form</string>
+    <string name="deleteButton">Remove</string>
+
+    <string-array name="credits_dropdown_arrays">
+
+        <item>2 Credits</item>
+        <item>3 Credits</item>
+        <item>4 Credits</item>
+    </string-array>
+</resources>
